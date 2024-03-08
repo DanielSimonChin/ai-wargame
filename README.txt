@@ -1,11 +1,3 @@
-Team Name: JSF Devs
-Team Members:
-Barnett Chengberlin
-Daniel Chin
-Stephen He
-
---------
-
 The program can be used with multiple command line arguments:
 
 --max_depth: The maximum search depth that the minimax or alpha-beta pruning algorithms will reach (ex: 5)
